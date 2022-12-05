@@ -1,6 +1,6 @@
 # Simon-game
 
-A fun "copy cat" game made during a JS bootcamp.
+A fun "copy cat" game made during a JS bootcamp to hone JS and jQuery skills.
 
 #### To Play:
 Simply open the index.html file in a browser.
@@ -14,4 +14,12 @@ Simply open the index.html file in a browser.
 <li>If you click an incorrect button it is GAME OVER. Press any keyboard button to restart the game.</li>
 </ol>
 
-#### 
+#### Files:
+###### index.html
+- Contains html files for all game objects, including title (level counter) and buttons.
+
+###### styles.css
+- Contains the css stylesheet for index.html. This was not created by me, but provided by the bootcamp course https://www.udemy.com/course/the-complete-web-development-bootcamp/
+
+###### game.js
+- Contains all game logic, written with JS and jQuery.
