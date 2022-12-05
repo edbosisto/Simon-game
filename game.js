@@ -85,5 +85,14 @@ function checkAnswer(currentLevel) {
         }
     } else {
         // console.log("wrong");
+        // If user clicks incorrectly, play the wrong.mp3 sound, change the h1 to GAME OVER, and flash .game-over class in css
+        playSound("wrong");
+
+        $("body").addClass("game-over");
+        setTimeout(function() {
+            $("body").removeClass("game-over");
+        }, 200);
+
+        $("#level-title").text("GAME OVER. Press any key to Restart")
     }
 }
