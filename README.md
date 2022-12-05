@@ -1,6 +1,6 @@
 # Simon-game
 
-A fun "copy cat" game made during a JS bootcamp to hone JS and jQuery skills.
+A fun "copy cat" game made in a bootcamp to hone JS and jQuery skills.
 
 #### To Play:
 Simply open the index.html file in a browser.
