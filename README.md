@@ -23,3 +23,6 @@ Simply open the index.html file in a browser.
 
 ###### game.js
 - Contains all game logic, written with JS and jQuery.
+
+###### /sounds
+- A folder with all game sounds. Each coloured button has a specific sound, as well as a game over sound.
